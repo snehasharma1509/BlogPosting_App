@@ -1,0 +1,77 @@
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-16 19:52:48"}
+{"admin_email":"sneha123@gmail.com","error":"value too long for type character varying(100)","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-16 19:57:13"}
+{"error":"value too long for type character varying(100)","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-16 19:57:13"}
+{"admin_email":"sneha@gmail.com","error":"value too long for type character varying(100)","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-16 19:57:29"}
+{"error":"value too long for type character varying(100)","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-16 19:57:29"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-17 12:19:48"}
+{"admin_email":"sneha@gmail.com","level":"info","message":"Admin data added successfully","service":"admin-service","timestamp":"2024-08-17 12:20:19"}
+{"admin_email":"sneha@gmail.com","level":"info","message":"Admin registered successfully","service":"admin-service","timestamp":"2024-08-17 12:20:19","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNuZWhhQGdtYWlsLmNvbSIsImlhdCI6MTcyMzg3NzQxOSwiZXhwIjoxNzIzODgxMDE5fQ.VBawfXgka9gx4muUr5H-U-3KcqPGqbbv4of8XuBcHOI"}
+{"admin_email":"sneha@gmail.com","level":"info","message":"Admin data retrieved successfully","service":"admin-service","timestamp":"2024-08-17 12:21:00"}
+{"level":"info","message":"Token verified successfully","service":"admin-service","timestamp":"2024-08-17 12:21:00","token":{"email":"sneha@gmail.com","exp":1723881019,"iat":1723877419}}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-17 13:03:00"}
+{"level":"info","message":"user data added successfully","service":"admin-service","timestamp":"2024-08-17 13:06:12","user_email":"sneha@23gmail.com"}
+{"level":"info","message":"User registered successfully","service":"admin-service","timestamp":"2024-08-17 13:06:12","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNuZWhhQDIzZ21haWwuY29tIiwiaWF0IjoxNzIzODgwMTcyLCJleHAiOjE3MjM4ODM3NzJ9.cCO5pYxoEunNHESJWSBs3lheHoRd9tVxCSONinq4WyE","user_email":"sneha@23gmail.com"}
+{"level":"info","message":"user data retrieved successfully","service":"admin-service","timestamp":"2024-08-17 13:06:28","user_email":"sneha@23gmail.com"}
+{"level":"info","message":"Login successful","service":"admin-service","timestamp":"2024-08-17 13:06:29","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNuZWhhQDIzZ21haWwuY29tIiwiaWF0IjoxNzIzODgwMTg5LCJleHAiOjE3MjM4ODM3ODl9.QI6uxheH3yapS6u9NATIWR5gNnqwZIG0sOTNKWcLDIQ","user_email":"sneha@23gmail.com"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-18 11:39:02"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-18 11:46:50"}
+{"error":"Unexpected field","level":"error","message":"Error during image upload","service":"admin-service","timestamp":"2024-08-18 11:47:00"}
+{"error":"Unexpected field","level":"error","message":"Error during image upload","service":"admin-service","timestamp":"2024-08-18 11:50:58"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-18 11:55:06"}
+{"blog_title":"Jesus Christ","error":"value too long for type character varying(100)","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-18 11:55:15"}
+{"error":"value too long for type character varying(100)","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-18 11:55:15"}
+{"blog_title":"Jesus Christ","error":"value too long for type character varying(100)","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-18 11:57:34"}
+{"error":"value too long for type character varying(100)","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-18 11:57:34"}
+{"blog_title":"Jesus Christ","error":"value too long for type character varying(100)","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-18 11:58:13"}
+{"error":"value too long for type character varying(100)","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-18 11:58:13"}
+{"blog_title":"Jesus Christ","level":"info","message":"Blog data added successfully","service":"admin-service","timestamp":"2024-08-18 12:01:54"}
+{"blog_title":"Jesus Christ","level":"info","message":"Blog created successfully","service":"admin-service","timestamp":"2024-08-18 12:01:54"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 11:00:45"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:01:49"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:01:49"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:02:26"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:02:26"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:03:50"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:03:50"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:09:22"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:09:22"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:09:32"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:09:32"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 11:17:01"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:17:10"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:17:10"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:17:16"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:17:16"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 11:18:01"}
+{"blog_title":"Jesus Christ","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:18:15"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:18:15"}
+{"blog_title":"this is title","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:24:48"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:24:48"}
+{"level":"error","message":"No file uploaded or unexpected field name","service":"admin-service","timestamp":"2024-08-19 11:28:38"}
+{"blog_title":"this is title","error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error adding blog data","service":"admin-service","timestamp":"2024-08-19 11:29:25"}
+{"error":"insert or update on table \"blogs\" violates foreign key constraint \"fk\"","level":"error","message":"Error during blog creation","service":"admin-service","timestamp":"2024-08-19 11:29:25"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 13:20:44"}
+{"level":"info","message":"Server is running on port 1200","service":"admin-service","timestamp":"2024-08-19 13:21:55"}
+{"level":"info","message":"Admin table created successfully.","service":"admin-service","timestamp":"2024-08-19 13:21:55"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 13:21:55"}
+{"level":"info","message":"Server is running on port 1200","service":"admin-service","timestamp":"2024-08-19 13:23:58"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 13:23:58"}
+{"level":"info","message":"Admin table created successfully.","service":"admin-service","timestamp":"2024-08-19 13:23:58"}
+{"error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-19 13:27:37"}
+{"error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-19 13:27:37"}
+{"admin_email":"john.doe@example.com","error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-19 13:31:47"}
+{"error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-19 13:31:47"}
+{"admin_email":"john.doe@example.com","error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-19 13:45:38"}
+{"error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-19 13:45:38"}
+{"level":"info","message":"Server is running on port 1300","service":"admin-service","timestamp":"2024-08-19 13:57:50"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 13:57:51"}
+{"level":"info","message":"Server is running on port 1100","service":"admin-service","timestamp":"2024-08-19 14:07:30"}
+{"0":"s","1":"y","10":"o","11":"r","12":" ","13":"a","14":"t","15":" ","16":"o","17":"r","18":" ","19":"n","2":"n","20":"e","21":"a","22":"r","23":" ","24":"\"","25":"I","26":"N","27":"T","28":"\"","3":"t","4":"a","5":"x","6":" ","7":"e","8":"r","9":"r","level":"error","message":"Error creating admin table:","service":"admin-service","timestamp":"2024-08-19 14:07:30"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 14:07:30"}
+{"0":"s","1":"y","10":"o","11":"r","12":" ","13":"a","14":"t","15":" ","16":"o","17":"r","18":" ","19":"n","2":"n","20":"e","21":"a","22":"r","23":" ","24":"\"","25":"I","26":"N","27":"T","28":"\"","3":"t","4":"a","5":"x","6":" ","7":"e","8":"r","9":"r","level":"error","message":"Error creating admin table:","service":"admin-service","timestamp":"2024-08-19 14:07:30"}
+{"level":"info","message":"Server is running on port 1101","service":"admin-service","timestamp":"2024-08-19 14:34:48"}
+{"0":"s","1":"y","10":"o","11":"r","12":" ","13":"a","14":"t","15":" ","16":"o","17":"r","18":" ","19":"n","2":"n","20":"e","21":"a","22":"r","23":" ","24":"\"","25":"I","26":"N","27":"T","28":"\"","3":"t","4":"a","5":"x","6":" ","7":"e","8":"r","9":"r","level":"error","message":"Error creating admin table:","service":"admin-service","timestamp":"2024-08-19 14:34:48"}
+{"level":"info","message":"Connected to the database successfully","service":"admin-service","timestamp":"2024-08-19 14:34:48"}
+{"0":"s","1":"y","10":"o","11":"r","12":" ","13":"a","14":"t","15":" ","16":"o","17":"r","18":" ","19":"n","2":"n","20":"e","21":"a","22":"r","23":" ","24":"\"","25":"I","26":"N","27":"T","28":"\"","3":"t","4":"a","5":"x","6":" ","7":"e","8":"r","9":"r","level":"error","message":"Error creating admin table:","service":"admin-service","timestamp":"2024-08-19 14:34:48"}
+{"admin_email":"john.doe@example.com","error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error adding admin data","service":"admin-service","timestamp":"2024-08-19 14:36:35"}
+{"error":"Cannot read properties of undefined (reading 'query')","level":"error","message":"Error during admin registration","service":"admin-service","timestamp":"2024-08-19 14:36:35"}

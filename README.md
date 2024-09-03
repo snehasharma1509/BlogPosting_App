@@ -1,2 +1,1 @@
-# BlogPosting_App
-Blog Posting Multimedia web application
+# BlogPosting_Mutimedia
